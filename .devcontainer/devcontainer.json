@@ -5,5 +5,5 @@
         "codelounge.tako",
         "hasel-alakmeh.telemetry-activity-tracker"
     ],
-    "hostRequirements": { "cpus": 8, "memory": "32gb", "storage": "64gb" }
+    "hostRequirements": { "cpus": 4, "memory": "8gb", "storage": "32gb" }
 }
