@@ -6,7 +6,8 @@
     "build": "tsc --project ./",
     "start:dev": "nodemon ./src/server.ts",
     "dev": "nodemon ./src/server.ts",
-    "start:prod": "node ./dist/server.js"
+    "start:prod": "node ./dist/server.js",
+    "test": "jest --config ./jest.config.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
